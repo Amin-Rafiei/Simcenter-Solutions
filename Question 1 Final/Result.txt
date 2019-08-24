@@ -1,1 +1,0 @@
-Words #: 13, Unique Words #: 12, Palindrome Words #:  3, Characters #: 64, Lines #:  3

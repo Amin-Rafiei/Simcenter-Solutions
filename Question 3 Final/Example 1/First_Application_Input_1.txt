@@ -1,3 +1,0 @@
-This checks accuracy level. Refer to code.
-Civic is special.
-Input is short.
