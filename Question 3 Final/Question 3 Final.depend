@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1566618723 source:c:\users\arafiei\desktop\c programs\question 3 final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	<string.h>
+
